@@ -3,3 +3,6 @@
 ################################################################################
 
 /AppDTestProject/bin/Debug
+/packages
+/.vs/AppDTestProject/v16
+/AppDTestProject/obj/Debug
